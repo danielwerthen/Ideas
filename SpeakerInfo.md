@@ -1,6 +1,6 @@
 **Title of presentation:** Finding a simple solution to complex software
 
-**Abstract:** The scale of software of today and tomorrow transcends the understanding of any single individual, often quite literally so.
+**Abstract:** The scale of software of today and tomorrow transcends the understanding of any single individual.
 How can a simple strategy be leveraged to change this trend? 
 
 We propose a radically simplified framework of only a handful of rules which can be used to generalize software and provied a new and higher level of abstraction.
